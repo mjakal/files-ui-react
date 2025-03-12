@@ -1,6 +1,6 @@
 {
-  "name": "files-ui-react-19-fix",
-  "version": "1.0.3",
+  "name": "dropzone-ui-react",
+  "version": "1.2.0",
   "description": "UI components for file uploads with React js - with React 19 support",
   "main": "./build/index.js",
   "module": "./build/index.es.js",

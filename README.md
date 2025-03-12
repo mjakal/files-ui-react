@@ -13,7 +13,7 @@ This is based on the excellent work by [JinSSJ3](https://github.com/JinSSJ3) in 
 ## Installation
 
 ```bash
-npm install files-ui-react-19
+npm install dropzone-ui-react
 ```
 
 ## Usage
