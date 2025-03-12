@@ -1,5 +1,5 @@
 {
-  "name": "@files-ui/react",
+  "name": "@files-ui-fix/react",
   "version": "1.2.4",
   "description": "UI components for file uploads with React js",
   "main": "./build/index.js",
